@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <a href="https://cooltext.com"><img src="https://images.cooltext.com/5582472.png" width="291" height="92" alt="ItzayHR" /></a>
-<br />Image by <a href="https://cooltext.com">Cool Text: Logo and Button Generator</a> - <a href="https://cooltext.com/Edit-Logo?LogoID=4040555909">Create Your Own Logo</a>
 
 <!--
 **ItzayHR/ItzayHR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
